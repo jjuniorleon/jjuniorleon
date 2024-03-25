@@ -1,6 +1,7 @@
 ### OLÁ👋 Sou o Jeferson Junior
 
 - 🌱 Estou estudando: CSS Avançado, JS, C
+- 📖 Escola: IFSul
 - 😄 Pronomes: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuniorleon&show_icons=true&theme=transparent)
