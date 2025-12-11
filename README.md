@@ -3,18 +3,20 @@
 ## 👨‍💻 Técnico em Informática | 🎓 IFSul Gravataí
 
 ### 🌱 Atualmente estudando:
-- Linguagem C
-- CSS Avançado
-- JavaScript
+- Flutter
+- Delphi
+- NODE
 
 #
 
 ### 💼 Experiência e conhecimentos:
-- JavaScript basico
+- JavaScript
 - html/CSS
-- Linguagem C basica
-- Edição de vídeos basica
-- Sistemas operacionais
+- Linguagem C
+- flutter
+- JAVA
+- PHP
+- SQL
 
 #
 
@@ -32,10 +34,15 @@
 
 linguagens que tenho experiência:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img src="https://skillicons.dev/icons?i=js" width="48" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" />
+  <img src="https://skillicons.dev/icons?i=c" width="48" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" />
+  <img src="https://skillicons.dev/icons?i=dart" width="48" />
+  <img src="https://skillicons.dev/icons?i=php" width="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
 </div>
   
   ##
